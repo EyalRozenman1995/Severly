@@ -1,10 +1,15 @@
 # Severly
 a web app where you can manage your servers
 
-Running instructions:
- 
-       client folder terminal: “npm start”
+client folder terminal: 
+   “npm install”
+   “npm start” 
 
-       server folder terminal: “npm run devStart”
+server folder terminal:
+   “npm install”
+   “npm run devStart” 
 
-mysql database
+devForce folder:
+   “npm install”
+
+mysql database 
